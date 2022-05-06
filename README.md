@@ -15,6 +15,20 @@ Following is the link to our Wandb reports. It contains the insightful observati
 # Future scope
 The same codes can be used for performing experiments on larger datasets.
 It can also be used for different datasets that are similar.
+## **Team Members :**
+Vishnu K T - OE21S024
+Chandru N - CS20M041
+
+## Languages and packages
+Python - Numpy and Pandas are used. Apart from that, in this assignment, the following packages are used.
+1. keras
+2. Tensorflow
+
+## Code editor and Compiler
+We used **Google Colab**, an online real-time collaborative code editor and compiler for the web by enabling GPUs, which is much easier than running it on a local machine.
+
+## Acknowledgements
+The report that is shared via a link above is an edited cloned copy of wandb reports shared by **Associate Proffessor Mitesh Khapra**, Department of Computer Science and Engineering, IIT Madras.
 
 
 

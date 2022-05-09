@@ -2,9 +2,7 @@
 This repository contains the codes and reports for the assignment 3 of the course CS6910 - Fundamentals of Deep Learning, conducted by Prof Mitesh Khapra at IIT Madras
 
 # Overall structure of Assignment 
-A copy of the same has been upload in the [GitHub project repository](https://github.com/ArupDas15/Fundamentals_Of_Deep_Learning/blob/master/cs6910_assignment3/seq2seq_with_attention/Nirmala.ttf).
-
-Below is the overall structure of our assignment works </br>
+Below is the overall structure of our assignment works. The image has been generated with the help of wandb </br>
 ![nazarandaaz](https://github.com/vishnukt2506/Assignment_3/blob/main/model.png)
 # Use recurrent neural networks to build a transliteration system
 

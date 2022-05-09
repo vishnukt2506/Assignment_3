@@ -13,7 +13,9 @@ Using Recurrent Neural Networks, we build a poject here, which implements a sequ
 We have used the wandb for hyperparameter configuration, It can also be used to generate automatic plots and the same can be cloned to our wandb reports. It was helpful in visualizing the training, organizing and comparing lots of training runs and can also be used to analyze our models.
 
 # Wandb report
-Following is the link to our Wandb reports. It contains the insightful observations made during the training.
+Following is the link to our Wandb reports.
+https://wandb.ai/dl_assignments/assignment-4/reports/Assignment-3--VmlldzoxOTY4NTkx
+It contains the insightful observations made during the training.
 
 # Future scope
 The same codes can be used for performing experiments on larger datasets.
@@ -23,15 +25,23 @@ Vishnu K T - OE21S024
 Chandru N - CS20M041
 
 ## Languages and packages
-Python - Numpy and Pandas are used. Apart from that, in this assignment, the following packages are used.
 1. keras
 2. Tensorflow
+3. Matplotlib
+4. Numpy
+5. Pandas
 
 ## Code editor and Compiler
 We used **Google Colab**, an online real-time collaborative code editor and compiler for the web by enabling GPUs, which is much easier than running it on a local machine.
 
 ## Acknowledgements
-The report that is shared via a link above is an edited cloned copy of wandb reports shared by **Associate Proffessor Mitesh Khapra**, Department of Computer Science and Engineering, IIT Madras.
+1. Youtube playlist of Associate Proffessor Mitesh Khapra, Indian Institute of Technology, Madras - https://www.youtube.com/watch?v=aPfkYu_qiF4&list=PLEAYkSg4uSQ1r2XrJ_GBzzS6I-f8yfRU
+2. Blog in Analytics Vidhya for RNN - https://www.analyticsvidhya.com/blog/2017/12/introduction-to-recurrent-neuralnetworks/Blog on dropout for regularizing –
+3. Blog for Dropout – https://machinelearningmastery.com/dropout-for-regularizingdeep-neural-networks/
+4. Additional knowledge on basics of CNN - https://datascience.stackexchange.com/questions/64022/
+5. Pre-training vs Fine tuning -- https://stackoverflow.com/questions/68461204/continual-pre-training-vs-finetuning-a-language-model-with-mlm
+6. Training in Keras – https://stackoverflow.com/questions/52031587/how-can-i-make-a-trainableparameter-in-keras
+7. Guide to RNN Blog – https://towardsdatascience.com/illustrated-guide-to-recurrent-neural-networks79e5eb8049c9
 
 
 

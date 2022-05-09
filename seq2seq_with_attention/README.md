@@ -27,16 +27,27 @@ To execute the program in Google Colab one can click on the run cell option or d
 
 ## How program is written
 At first the program downloads the dataset 
+
 Then it sets the train, validation and test filepath
+
 Then it creatres Input word tensors, target word tensors, input vocabulary and output vocabulary from training set
+
 Every target word and input word is appended with a Start of Sequence Character '\t' and End of Sequence Character '\n'.
+
 Then training begins.
+
 Then test accuracy is reported.
+
 Random function is used to generate random of test inputs to evaluate the model performance.
+
 The target word for each of the test inputs had been predicted.
+
 Followed by this attention heatmap is generated.
+
 RNN Type activations are visualized statistically.
-Perform connectivity visualisation to understand which is the input(ENGLISH) character that the sequence to sequence model is looking at 
+
+Perform connectivity visualisation to understand which is the input(ENGLISH) character that the sequence to sequence model is looking at
+
 This is done while decoding the ith character in the output(a HINDI character)
 
 ## Acknowledgements 

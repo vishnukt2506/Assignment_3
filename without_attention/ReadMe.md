@@ -1,7 +1,7 @@
-# Vanilla Seq-to-Seq
- Here we have implemented the Encoder-Decoder model without the attention. We have built stacked encoder-decoder model here.
+# Sequence to Sequence without attention
+ In this part of assignment, we have implemented the Encoder-Decoder model without the attention. We have built stacked encoder-decoder model here.
 # Set up and Installation: #
-Easiest way to try this code out is :-
+The bette way to try this code out for checking is as follows
 1. Download the .ipynb file
 2. Upload it to Google Colab
 3. Use the "Run All Cells" option to begin training the best model.
